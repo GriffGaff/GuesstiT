@@ -18,7 +18,7 @@ namespace GuesstiT
 
             //Change text color
             Console.ForegroundColor = ConsoleColor.DarkBlue;
-            //Print app nfo
+            //Print app info
             Console.WriteLine("The " + appName + ": Version " + appVersion + " is written and developed by " + appAuthor);
             Console.WriteLine("The {0}: Version {1} by {2}", appName, appVersion, appAuthor);
             //Reset text color

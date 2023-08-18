@@ -43,7 +43,7 @@ namespace GuesstiT
             {
                 //Let's play
                 //random assignment enables us to select a number at random
-                //correctNumber is set to be a random number;
+                //correctNumber is set to random;
                 Random random = new Random();
                 int correctNumber = random.Next(1, 10);
                 int guess = 0;

@@ -117,7 +117,7 @@ namespace GuesstiT
     /*
         static void Game2(){
             while (true){
-                string[] names ={ "Abdulrahman", "Naemah", "Abdulgaffar", "Zainudeen", "Mardhiyyah" };
+                string[] names ={ "item1", "item2", "item3", "item4", "item5" };
                 int answer1 = Convert.ToInt32(names[0]);
                 string answer2 = names[1];
                 string answer3 = names[2];

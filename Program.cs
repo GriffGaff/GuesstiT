@@ -76,10 +76,10 @@ namespace GuesstiT
                             PrintColorMessage(ConsoleColor.Green, "Hint: add a \'k\' to the end and you can eat with it.");
                         }
                         if (correctNumber == 5){
-                            PrintColorMessage(ConsoleColor.Green, "Hint: How do you _slap_ someone?.");
+                            PrintColorMessage(ConsoleColor.Green, "Hint: number of weekdays.");
                         }
                         if (correctNumber == 6){
-                            PrintColorMessage(ConsoleColor.Green, "Hint: invert the last digit in binary op.");
+                            PrintColorMessage(ConsoleColor.Green, "Hint: illuminati.");
                         }
                         if (correctNumber == 7){
                             PrintColorMessage(ConsoleColor.Green, "Hint: How many kingdoms are in Game of Thrones?");
@@ -88,7 +88,7 @@ namespace GuesstiT
                             PrintColorMessage(ConsoleColor.Green, "Hint: You really should _hate_ the devil.");
                         }
                         if (correctNumber == 9){
-                            PrintColorMessage(ConsoleColor.Green, "Hint: say the digit 3 times and pay tribute to JuiceWrld.");
+                            PrintColorMessage(ConsoleColor.Green, "Hint: the last digit in numerics.");
                         }
                         if (correctNumber == 10){
                             PrintColorMessage(ConsoleColor.Green, "Hint: _Than Q_ for playing.");

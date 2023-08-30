@@ -1,6 +1,7 @@
 This project makes use of various C# attributes. It starts by collecting the user details, prompting them for a confirmation input before commencing the game.
 
 The game generates a number between 1-10, at random, and each number has an embedded hint that the player is to decipher and then guess the hidden number.
+<<<<<<< HEAD
 
 This project showcases the utilization of various C# attributes to create an interactive number guessing game. The game begins by collecting user details and prompting them for confirmation before initiating the gameplay.
 
@@ -64,3 +65,4 @@ License
 This project is licensed under the MIT License.
 
 For questions or feedback, please contact us at contact@example.com. We hope you enjoy playing the Number Guessing Game and exploring the use of C# attributes!
+

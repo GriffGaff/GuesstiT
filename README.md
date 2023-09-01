@@ -8,7 +8,7 @@ This project showcases the utilization of various C# attributes to create an int
 # License
 # Support
 
-[Features](#Features)
+[Features]
 User Details Collection: The project initiates by gathering user details, enhancing personalization and user engagement.
 
 Confirmation Prompt: Prior to starting the game, the user is prompted for confirmation, ensuring an intentional engagement.
@@ -19,7 +19,7 @@ Interactive Gameplay: Players decipher the embedded hints and make guesses to id
 
 C# Attributes Usage: The project highlights the use of C# attributes to structure and enhance the gameplay logic.
 
-[Installation](#Installation)
+(#Installation)
 Clone the Repository:
 
 bash
@@ -29,7 +29,7 @@ cd GuesstiT
 Compile and Run:
 Use your preferred C# compiler to build and run the project.
 
-[Usage](#Usage)
+# Usage
 Run the compiled executable of the game.
 
 Provide your details when prompted.

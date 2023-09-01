@@ -1,14 +1,6 @@
 This project showcases the utilization of various C# attributes to create an interactive number guessing game. The game begins by collecting user details and prompting them for confirmation before initiating the gameplay.
 
-# Table of Contents
 # Features
-# Installation
-# Usage
-# Contributing
-# License
-# Support
-
-[Features]
 User Details Collection: The project initiates by gathering user details, enhancing personalization and user engagement.
 
 Confirmation Prompt: Prior to starting the game, the user is prompted for confirmation, ensuring an intentional engagement.
@@ -19,7 +11,7 @@ Interactive Gameplay: Players decipher the embedded hints and make guesses to id
 
 C# Attributes Usage: The project highlights the use of C# attributes to structure and enhance the gameplay logic.
 
-(#Installation)
+# Installation
 Clone the Repository:
 
 bash
@@ -44,7 +36,7 @@ The game will provide feedback on your guesses and guide you towards the correct
 
 Enjoy the challenge and have fun!
 
-[Contributing](#Contributing)
+# Contributing
 Contributions to this project are encouraged! To contribute:
 
 Fork the repository.
@@ -57,10 +49,10 @@ Push to the branch: git push origin feature/your-feature-name.
 
 Open a pull request, explaining your changes and their purpose.
 
-[License](#License)
+# License
 This project is licensed under the MIT License.
 
-[Support](#Support)
+# Support
 Support by leaving a star ⭐️
 
 We hope you enjoy playing the Number Guessing Game and exploring the use of C# attributes!

@@ -14,40 +14,38 @@ C# Attributes Usage: The project highlights the use of C# attributes to structur
 # Installation
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/griffgaff/GuesstiT.git
-cd GuesstiT
+>git clone https://github.com/griffgaff/GuesstiT.git
+>cd GuesstiT
 Compile and Run:
 Use your preferred C# compiler to build and run the project.
 
 # Usage
-Run the compiled executable of the game.
+1. Run the compiled executable of the game.
 
-Provide your details when prompted.
+2. Provide your details when prompted.
 
-Confirm your participation in the game.
+3. Confirm your participation in the game.
 
-The game will generate a random number along with an associated hint.
+4. The game will generate a random number along with an associated hint.
 
-Decipher the hint and make educated guesses to identify the hidden number.
+5. Decipher the hint and make educated guesses to identify the hidden number.
 
-The game will provide feedback on your guesses and guide you towards the correct answer.
+6. The game will provide feedback on your guesses and guide you towards the correct answer.
 
-Enjoy the challenge and have fun!
+7. Enjoy the challenge and have fun!
 
 # Contributing
 Contributions to this project are encouraged! To contribute:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a new branch: git checkout -b feature/your-feature-name.
+2. Create a new branch: git checkout -b feature/your-feature-name.
 
-Implement your changes and commit them: git commit -m "Add a new feature".
+3. Implement your changes and commit them: git commit -m "Add a new feature".
 
-Push to the branch: git push origin feature/your-feature-name.
+4. Push to the branch: git push origin feature/your-feature-name.
 
-Open a pull request, explaining your changes and their purpose.
+5. Open a pull request, explaining your changes and their purpose.
 
 # License
 This project is licensed under the MIT License.

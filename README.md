@@ -1,5 +1,4 @@
-This project makes use of various C# attributes. It starts by collecting the user details, prompting them for a confirmation input before initiating the gameplay.
-
+This project showcases the utilization of various C# attributes to create an interactive number guessing game. The game begins by collecting user details and prompting them for confirmation before initiating the gameplay.
 
 # Table of Contents
 # Features
@@ -7,8 +6,9 @@ This project makes use of various C# attributes. It starts by collecting the use
 # Usage
 # Contributing
 # License
+# Support
 
-[Features](#features)
+[Features](#Features)
 User Details Collection: The project initiates by gathering user details, enhancing personalization and user engagement.
 
 Confirmation Prompt: Prior to starting the game, the user is prompted for confirmation, ensuring an intentional engagement.
@@ -19,17 +19,17 @@ Interactive Gameplay: Players decipher the embedded hints and make guesses to id
 
 C# Attributes Usage: The project highlights the use of C# attributes to structure and enhance the gameplay logic.
 
-[Installation](#features)
+[Installation](#Installation)
 Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/number-guessing-game.git
-cd number-guessing-game
+git clone https://github.com/griffgaff/GuesstiT.git
+cd GuesstiT
 Compile and Run:
 Use your preferred C# compiler to build and run the project.
 
-Usage
+[Usage](#Usage)
 Run the compiled executable of the game.
 
 Provide your details when prompted.
@@ -44,7 +44,7 @@ The game will provide feedback on your guesses and guide you towards the correct
 
 Enjoy the challenge and have fun!
 
-Contributing
+[Contributing](#Contributing)
 Contributions to this project are encouraged! To contribute:
 
 Fork the repository.
@@ -57,8 +57,9 @@ Push to the branch: git push origin feature/your-feature-name.
 
 Open a pull request, explaining your changes and their purpose.
 
-License
+[License](#License)
 This project is licensed under the MIT License.
 
-For questions or feedback, please contact us at contact@example.com. We hope you enjoy playing the Number Guessing Game and exploring the use of C# attributes!
-
+[Support](#Support)
+Support by leaving a star ⭐️
+We hope you enjoy playing the Number Guessing Game and exploring the use of C# attributes!

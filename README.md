@@ -62,4 +62,5 @@ This project is licensed under the MIT License.
 
 [Support](#Support)
 Support by leaving a star ⭐️
+
 We hope you enjoy playing the Number Guessing Game and exploring the use of C# attributes!

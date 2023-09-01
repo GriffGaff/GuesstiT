@@ -15,7 +15,9 @@ C# Attributes Usage: The project highlights the use of C# attributes to structur
 Clone the Repository:
 
 >git clone https://github.com/griffgaff/GuesstiT.git
->cd GuesstiT
+
+cd GuesstiT
+
 Compile and Run:
 Use your preferred C# compiler to build and run the project.
 
